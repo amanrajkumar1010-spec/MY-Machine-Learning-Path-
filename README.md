@@ -13,7 +13,10 @@ and eventually build real-world projects.
 
 | Date | Topic | What I Learned | Time Spent |
 |------|-------|----------------|------------|
-| 17/09/2026 | Revision | Started revising Python/NumPy/Pandas/Matplotlib | — |
+| 17/09/2026 | Revision | Started revising Python with pactice up to Function | 5hr |
+| 18/09/2026 | Revision | Started revising Python with OOPS | 2hr |
+| 18/09/2026 | Revision | Numpy Part 1 with code with chai | 3hr |
+
 
 ## Goal
 
