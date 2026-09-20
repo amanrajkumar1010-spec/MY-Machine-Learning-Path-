@@ -16,6 +16,10 @@ and eventually build real-world projects.
 | 17/09/2026 | Revision | Started revising Python with pactice up to Function | 5hr |
 | 18/09/2026 | Revision | Started revising Python with OOPS | 2hr |
 | 18/09/2026 | Revision | Numpy Part 1 with code with chai | 3hr |
+| 19/09/2026 | Fully Practiced | Numpy with code with chai | 2hr |
+| 20/09/2026 | Revision | Pandas with  Sheryians AI School | 5hr |
+
+
 
 
 ## Goal
