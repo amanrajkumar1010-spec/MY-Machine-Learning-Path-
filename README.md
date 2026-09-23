@@ -18,7 +18,10 @@ and eventually build real-world projects.
 | 18/09/2026 | Revision | Numpy Part 1 with code with chai | 3hr |
 | 19/09/2026 | Fully Practiced | Numpy with code with chai | 2hr |
 | 20/09/2026 | Revision | Pandas with  Sheryians AI School | 5hr |
-
+| 21/09/2026 | Project | Pandas and Numpy on CSV file | 3-4hr |
+| 22/09/2026 | Learning | Matplotlib,seaborn and plots with  Sheryians AI School | 5.3hr |
+| 23/09/2026 | Work on Project | IPL 2026 Data  | 3-4hr |
+| 24/09/2026 | Revision S1 | Statistics form IITM Notes of my  1st Year of BS  | -- |
 
 
 
