@@ -210,7 +210,7 @@ Statistics/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/amanrajkumar1010-spec/MY-Machine-Learning-Path-.git
 ```
 
 ### 2. Open the project
