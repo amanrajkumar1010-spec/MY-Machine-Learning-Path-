@@ -30,7 +30,9 @@ and eventually build real-world projects.
 | 29/09/2026 | Project | Fully responsive Web UI layout (HTML5/CSS3) | 4 hrs |
 | 29/09/2026 | Rest | Rest day (Fever / Recovery) | — |
 | 30/09/2026 | Revision | Statistics: PMF, PDF, CDF theory & Python plotting (*CampusX*) | 6 hrs |
-| 01/10/2026 | Revision | Statistics: Normal Distribution deep dive (*CampusX* Lecture 4) | In Progress |
+| 01/10/2026 | Revision | Statistics: Normal Distribution deep dive (*CampusX* Lecture 4) |  3-4hr  |
+| 02/10/2026 | Rest | Rest day (Fever / Recovery) | — |
+| 03/10/2026 | Revision | Statistics: Non-Gaussian Probability Distributions (*CampusX* Lecture 5) | 4hr and in progress |
 
 
 ## Goal
